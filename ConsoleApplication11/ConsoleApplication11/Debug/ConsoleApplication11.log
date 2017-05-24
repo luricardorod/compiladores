@@ -1,0 +1,4 @@
+﻿  ConsoleApplication11.cpp
+e:\uad\programacion\consoleapplication11\consoleapplication11\consoleapplication11.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication11.vcxproj -> E:\UAD\Programacion\ConsoleApplication11\Debug\ConsoleApplication11.exe
+  ConsoleApplication11.vcxproj -> E:\UAD\Programacion\ConsoleApplication11\Debug\ConsoleApplication11.pdb (Full PDB)

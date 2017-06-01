@@ -1,4 +1,5 @@
-﻿  ConsoleApplication11.cpp
-e:\uad\programacion\consoleapplication11\consoleapplication11\consoleapplication11.cpp(29): warning C4018: '<': signed/unsigned mismatch
-  ConsoleApplication11.vcxproj -> E:\UAD\Programacion\ConsoleApplication11\Debug\ConsoleApplication11.exe
-  ConsoleApplication11.vcxproj -> E:\UAD\Programacion\ConsoleApplication11\Debug\ConsoleApplication11.pdb (Full PDB)
+﻿  CNumberInt.cpp
+c:\users\bluemonkey\documents\compiladores\consoleapplication11\consoleapplication11\cnumberint.cpp(1): error C2859: C:\Users\blueMonkey\Documents\compiladores\ConsoleApplication11\ConsoleApplication11\Debug\vc140.idb is not the idb file that was used when this precompiled header was created, recreate the precompiled header.
+  CID.cpp
+c:\users\bluemonkey\documents\compiladores\consoleapplication11\consoleapplication11\cid.cpp(1): error C2859: C:\Users\blueMonkey\Documents\compiladores\ConsoleApplication11\ConsoleApplication11\Debug\vc140.idb is not the idb file that was used when this precompiled header was created, recreate the precompiled header.
+  Generating Code...

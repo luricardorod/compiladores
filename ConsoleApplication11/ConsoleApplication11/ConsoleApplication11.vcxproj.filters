@@ -24,12 +24,39 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CLexicStates.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CNone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CID.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CNumberInt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ConsoleApplication11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLexicStates.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CNone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CID.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CNumberInt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

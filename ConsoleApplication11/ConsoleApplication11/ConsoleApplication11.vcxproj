@@ -145,10 +145,19 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CID.h" />
+    <ClInclude Include="CLexicStates.h" />
+    <ClInclude Include="CNone.h" />
+    <ClInclude Include="CNumberInt.h" />
+    <ClInclude Include="CState.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CID.cpp" />
+    <ClCompile Include="CLexicStates.cpp" />
+    <ClCompile Include="CNone.cpp" />
+    <ClCompile Include="CNumberInt.cpp" />
     <ClCompile Include="ConsoleApplication11.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

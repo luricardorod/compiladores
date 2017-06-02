@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="LexicalStates">
+      <UniqueIdentifier>{25d15501-af2c-4881-907d-3c56685bd06a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CLNone.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLId.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLComments.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLLogicOperators.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLNumberFloat.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLNumberInt.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CAritmeticOperators.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLAssign.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLCloseDimensionOperator.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLConstantAlfanumeric.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLDelimiters.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLGroupOperators.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLOpenDimensionOperator.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CLRelacionalOperators.h">
+      <Filter>LexicalStates</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CLNone.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLId.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLNumberInt.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLNumberFloat.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLLogicOperators.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLComments.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CAritmeticOperators.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLAssign.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLCloseDimensionOperator.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLConstantAlfanumeric.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLDelimiters.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLGroupOperators.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLOpenDimensionOperator.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CLRelacionalOperators.cpp">
+      <Filter>LexicalStates</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

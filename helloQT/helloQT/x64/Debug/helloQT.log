@@ -1,0 +1,29 @@
+﻿  Moc'ing helloqt.h...
+  Uic'ing helloqt.ui...
+  Rcc'ing helloqt.qrc...
+RCC : warning : No resources in 'E:\UAD\6to\compiladores\helloQT\helloQT\helloqt.qrc'.
+  
+  CLAssign.cpp
+  CLCloseDimensionOperator.cpp
+  CLComments.cpp
+  CLConstantAlfanumeric.cpp
+  CLDelimiters.cpp
+  CLexicalAnalysis.cpp
+  CLGroupOperators.cpp
+  CLId.cpp
+  CLLogicOperators.cpp
+  CLNone.cpp
+  CLNumberFloat.cpp
+  CLNumberInt.cpp
+  CLOpenDimensionOperator.cpp
+  CLRelacionalOperators.cpp
+  CTokenizer.cpp
+  CErrorHandler.cpp
+  CLAritmeticOperators.cpp
+  moc_helloqt.cpp
+  helloqt.cpp
+  main.cpp
+  Generating Code...
+  qrc_helloqt.cpp
+  helloQT.vcxproj -> E:\UAD\6to\compiladores\helloQT\x64\Debug\helloQT.exe
+  helloQT.vcxproj -> E:\UAD\6to\compiladores\helloQT\x64\Debug\helloQT.pdb (Full PDB)
